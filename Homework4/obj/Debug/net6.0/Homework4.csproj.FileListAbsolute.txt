@@ -1,0 +1,15 @@
+E:\DISK3TB\git\GB_github\Homework4\obj\Debug\net6.0\Homework4.csproj.AssemblyReference.cache
+E:\DISK3TB\git\GB_github\Homework4\obj\Debug\net6.0\Homework4.GeneratedMSBuildEditorConfig.editorconfig
+E:\DISK3TB\git\GB_github\Homework4\obj\Debug\net6.0\Homework4.AssemblyInfoInputs.cache
+E:\DISK3TB\git\GB_github\Homework4\obj\Debug\net6.0\Homework4.AssemblyInfo.cs
+E:\DISK3TB\git\GB_github\Homework4\obj\Debug\net6.0\Homework4.csproj.CoreCompileInputs.cache
+E:\DISK3TB\git\GB_github\Homework4\bin\Debug\net6.0\Homework4.exe
+E:\DISK3TB\git\GB_github\Homework4\bin\Debug\net6.0\Homework4.deps.json
+E:\DISK3TB\git\GB_github\Homework4\bin\Debug\net6.0\Homework4.runtimeconfig.json
+E:\DISK3TB\git\GB_github\Homework4\bin\Debug\net6.0\Homework4.dll
+E:\DISK3TB\git\GB_github\Homework4\bin\Debug\net6.0\Homework4.pdb
+E:\DISK3TB\git\GB_github\Homework4\obj\Debug\net6.0\Homework4.dll
+E:\DISK3TB\git\GB_github\Homework4\obj\Debug\net6.0\refint\Homework4.dll
+E:\DISK3TB\git\GB_github\Homework4\obj\Debug\net6.0\Homework4.pdb
+E:\DISK3TB\git\GB_github\Homework4\obj\Debug\net6.0\Homework4.genruntimeconfig.cache
+E:\DISK3TB\git\GB_github\Homework4\obj\Debug\net6.0\ref\Homework4.dll
