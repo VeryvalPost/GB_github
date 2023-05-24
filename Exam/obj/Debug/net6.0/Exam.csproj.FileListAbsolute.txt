@@ -1,0 +1,15 @@
+/home/veryval/Documents/GB_Homeworks/Exam/bin/Debug/net6.0/Exam
+/home/veryval/Documents/GB_Homeworks/Exam/bin/Debug/net6.0/Exam.deps.json
+/home/veryval/Documents/GB_Homeworks/Exam/bin/Debug/net6.0/Exam.runtimeconfig.json
+/home/veryval/Documents/GB_Homeworks/Exam/bin/Debug/net6.0/Exam.dll
+/home/veryval/Documents/GB_Homeworks/Exam/bin/Debug/net6.0/ref/Exam.dll
+/home/veryval/Documents/GB_Homeworks/Exam/bin/Debug/net6.0/Exam.pdb
+/home/veryval/Documents/GB_Homeworks/Exam/obj/Debug/net6.0/Exam.csproj.AssemblyReference.cache
+/home/veryval/Documents/GB_Homeworks/Exam/obj/Debug/net6.0/Exam.GeneratedMSBuildEditorConfig.editorconfig
+/home/veryval/Documents/GB_Homeworks/Exam/obj/Debug/net6.0/Exam.AssemblyInfoInputs.cache
+/home/veryval/Documents/GB_Homeworks/Exam/obj/Debug/net6.0/Exam.AssemblyInfo.cs
+/home/veryval/Documents/GB_Homeworks/Exam/obj/Debug/net6.0/Exam.csproj.CoreCompileInputs.cache
+/home/veryval/Documents/GB_Homeworks/Exam/obj/Debug/net6.0/Exam.dll
+/home/veryval/Documents/GB_Homeworks/Exam/obj/Debug/net6.0/ref/Exam.dll
+/home/veryval/Documents/GB_Homeworks/Exam/obj/Debug/net6.0/Exam.pdb
+/home/veryval/Documents/GB_Homeworks/Exam/obj/Debug/net6.0/Exam.genruntimeconfig.cache
